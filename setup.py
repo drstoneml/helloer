@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='helloer',
     version='0.1.0',
-    packages=find_packages(),
+    packages=["helloer"],
     install_requires=[],
     author='Manav',
     author_email='manavchavda594@gmail.com',
